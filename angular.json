@@ -45,7 +45,9 @@
               "@angular/material/prebuilt-themes/azure-blue.css",
               "src/styles.scss"
             ],
-            "scripts": []
+            "scripts": [],
+            "baseHref": "https://giovannidias1.github.io/surf-maps/"
+
           },
           "configurations": {
             "production": {
